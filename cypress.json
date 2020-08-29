@@ -1,0 +1,13 @@
+{
+  "chromeWebSecurity": false,
+  "reporter": "cypress-multi-reporters",
+  "pageLoadTimeout": 12000,
+  "reporterOptions": {
+    "configFile": "reporter.json"
+  },
+  "ignoreTestFiles": "product-detail-elem-check-uat.js",
+ "Videos":{
+	"video":"false"
+}
+
+}
